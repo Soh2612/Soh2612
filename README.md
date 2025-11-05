@@ -24,7 +24,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=abhipraydhoble&color=green&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Soh2612&color=green&style=flat-square)
 
 ---
 
